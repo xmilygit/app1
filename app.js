@@ -7,6 +7,8 @@ var bodyParser = require('body-parser');
 
 var exphbs=require('express-handlebars');
 
+var db=require('./models/db');
+
 var routes = require('./routes/index');
 var users = require('./routes/users');
 
