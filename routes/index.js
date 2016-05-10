@@ -1,5 +1,9 @@
 var express = require('express');
 var mongoose = require('mongoose');
+var crypto = require('crypto')
+  , key = 'xmilyxljxhh'
+  , hash
+
 
 var router = express.Router();
 
@@ -18,10 +22,17 @@ router.get('/update', function (req, res, next) {
       console.log(err);
     for (var index = 0; index < docs.length; index++) {
       var element = docs[index];
-      strname=strname+element.tName;      
+      hash = crypto.createHmac('sha1', key).update(element.tPassword).digest('hex');
+      element.tPassword=hash;
+      element.save(function (err,doc) {
+        if(err)
+        console.log(err);
+      console.log(doc.tName+'的密码修改成功！')
+      })
     }
+    res.render('index', { name1: strname });
   })
-  res.render('index', { name1: strname });
+
   /*
   teacher.find({tName:'徐明'},'tName tSex',function (err,doc) {
     if(err) console.log(err);
