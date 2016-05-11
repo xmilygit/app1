@@ -1,5 +1,6 @@
 var express = require('express');
 var mongoose = require('mongoose');
+var passport = require('passport')
 var crypto = require('crypto')
   , key = 'xmilyxljxhh'
   , hash
@@ -15,19 +16,26 @@ router.get('/', function (req, res, next) {
 });
 
 
+router.post('/login', passport.authenticate('local', {
+  successRedirect: '/',
+  failureRedirect: '/login',
+  failureFlash: true
+}))
+
+
 router.get('/update', function (req, res, next) {
-  var strname='jj';
+  var strname = 'jj';
   teacher.find({}, function (err, docs) {
     if (err)
       console.log(err);
     for (var index = 0; index < docs.length; index++) {
       var element = docs[index];
       hash = crypto.createHmac('sha1', key).update(element.tPassword).digest('hex');
-      element.tPassword=hash;
-      element.save(function (err,doc) {
-        if(err)
-        console.log(err);
-      console.log(doc.tName+'的密码修改成功！')
+      element.tPassword = hash;
+      element.save(function (err, doc) {
+        if (err)
+          console.log(err);
+        console.log(doc.tName + '的密码修改成功！')
       })
     }
     res.render('index', { name1: strname });
