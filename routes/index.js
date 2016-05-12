@@ -12,15 +12,26 @@ var teacher = mongoose.model('Teacher');
 
 /* GET home page. */
 router.get('/', function (req, res, next) {
-  res.render('index', { title: '成绩管理系统' });
+  var auth=req.isAuthenticated();
+  if (!req.user)
+    res.render('index', { title: '成绩管理系统' });
+  else
+    res.render('index', { title: req.user.tName, user: req.user });
 });
 
 
-router.post('/login', passport.authenticate('local', {
-  successRedirect: '/',
-  failureRedirect: '/login',
-  failureFlash: true
-}))
+router.post('/login', passport.authenticate('local',
+  {
+    //successRedirect: '/',
+    failureRedirect: '/login',
+    failureFlash: true
+  }
+),
+  function (req, res) {
+    //res.render('index',{ title: req.user.tName });
+    res.redirect('/')
+  }
+)
 
 
 router.get('/update', function (req, res, next) {
