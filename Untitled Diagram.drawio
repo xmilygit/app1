@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2021-06-09T04:25:04.697Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36 Edg/91.0.864.41" etag="SyJeIlPMfiQKZqjq1FSz" version="14.7.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-09T07:34:44.920Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36 Edg/91.0.864.41" etag="50V5xvrOllys4FtKp4Im" version="14.7.6" type="github">
   <diagram id="xbSUnDKYCWi-sVSFAzKx" name="第 1 页">
-    <mxGraphModel dx="2012" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2012" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="uLhDo0Ny1792h5dLZ_3C-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontStyle=1;fontSize=14;" edge="1" parent="1" source="uLhDo0Ny1792h5dLZ_3C-1" target="uLhDo0Ny1792h5dLZ_3C-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uLhDo0Ny1792h5dLZ_3C-4" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1;fontSize=14;" vertex="1" connectable="0" parent="uLhDo0Ny1792h5dLZ_3C-3">
+        <mxCell id="uLhDo0Ny1792h5dLZ_3C-4" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1;fontSize=14;labelBackgroundColor=none;" vertex="1" connectable="0" parent="uLhDo0Ny1792h5dLZ_3C-3">
           <mxGeometry x="-0.1529" y="2" relative="1" as="geometry">
             <mxPoint x="-18" y="2" as="offset" />
           </mxGeometry>
@@ -17,7 +17,7 @@
             <mxPoint x="-90" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uLhDo0Ny1792h5dLZ_3C-7" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1;fontSize=14;" vertex="1" connectable="0" parent="uLhDo0Ny1792h5dLZ_3C-6">
+        <mxCell id="uLhDo0Ny1792h5dLZ_3C-7" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1;fontSize=14;labelBackgroundColor=none;" vertex="1" connectable="0" parent="uLhDo0Ny1792h5dLZ_3C-6">
           <mxGeometry x="-0.25" y="5" relative="1" as="geometry">
             <mxPoint x="13" y="-5" as="offset" />
           </mxGeometry>
@@ -35,7 +35,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="uLhDo0Ny1792h5dLZ_3C-32" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontStyle=1" vertex="1" connectable="0" parent="uLhDo0Ny1792h5dLZ_3C-28">
+        <mxCell id="uLhDo0Ny1792h5dLZ_3C-32" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontStyle=1;labelBackgroundColor=none;" vertex="1" connectable="0" parent="uLhDo0Ny1792h5dLZ_3C-28">
           <mxGeometry x="-0.1799" y="-1" relative="1" as="geometry">
             <mxPoint y="-8" as="offset" />
           </mxGeometry>
@@ -47,7 +47,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="uLhDo0Ny1792h5dLZ_3C-31" value="监护人&lt;br&gt;户籍落户本学区&lt;br&gt;且产权房在本学区" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontStyle=1" vertex="1" connectable="0" parent="uLhDo0Ny1792h5dLZ_3C-30">
+        <mxCell id="uLhDo0Ny1792h5dLZ_3C-31" value="监护人&lt;br&gt;户籍落户本学区&lt;br&gt;且产权房在本学区" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontStyle=1;labelBackgroundColor=none;" vertex="1" connectable="0" parent="uLhDo0Ny1792h5dLZ_3C-30">
           <mxGeometry x="-0.1355" y="-1" relative="1" as="geometry">
             <mxPoint x="2" y="12" as="offset" />
           </mxGeometry>
@@ -63,7 +63,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="uLhDo0Ny1792h5dLZ_3C-26" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1;fontSize=14;" vertex="1" connectable="0" parent="uLhDo0Ny1792h5dLZ_3C-25">
+        <mxCell id="uLhDo0Ny1792h5dLZ_3C-26" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1;fontSize=14;labelBackgroundColor=none;" vertex="1" connectable="0" parent="uLhDo0Ny1792h5dLZ_3C-25">
           <mxGeometry x="0.0186" y="-2" relative="1" as="geometry">
             <mxPoint y="-27" as="offset" />
           </mxGeometry>
@@ -75,7 +75,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="uLhDo0Ny1792h5dLZ_3C-40" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontStyle=1" vertex="1" connectable="0" parent="uLhDo0Ny1792h5dLZ_3C-39">
+        <mxCell id="uLhDo0Ny1792h5dLZ_3C-40" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontStyle=1;labelBackgroundColor=none;" vertex="1" connectable="0" parent="uLhDo0Ny1792h5dLZ_3C-39">
           <mxGeometry x="0.0533" y="1" relative="1" as="geometry">
             <mxPoint x="9" y="-1" as="offset" />
           </mxGeometry>
@@ -90,7 +90,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="uLhDo0Ny1792h5dLZ_3C-36" value="有房" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontStyle=1" vertex="1" connectable="0" parent="uLhDo0Ny1792h5dLZ_3C-33">
+        <mxCell id="uLhDo0Ny1792h5dLZ_3C-36" value="有房" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontStyle=1;labelBackgroundColor=none;" vertex="1" connectable="0" parent="uLhDo0Ny1792h5dLZ_3C-33">
           <mxGeometry x="0.1074" relative="1" as="geometry">
             <mxPoint y="13" as="offset" />
           </mxGeometry>
@@ -102,7 +102,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="uLhDo0Ny1792h5dLZ_3C-37" value="无房&lt;br&gt;在祖父母（外祖父母）&lt;br&gt;房产实际居住的" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontStyle=1" vertex="1" connectable="0" parent="uLhDo0Ny1792h5dLZ_3C-34">
+        <mxCell id="uLhDo0Ny1792h5dLZ_3C-37" value="无房&lt;br&gt;在祖父母（外祖父母）&lt;br&gt;房产实际居住的" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontStyle=1;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" connectable="0" parent="uLhDo0Ny1792h5dLZ_3C-34">
           <mxGeometry x="-0.0458" relative="1" as="geometry">
             <mxPoint y="13" as="offset" />
           </mxGeometry>
@@ -115,7 +115,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="uLhDo0Ny1792h5dLZ_3C-38" value="全家无房&lt;br&gt;租房的" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontStyle=1" vertex="1" connectable="0" parent="uLhDo0Ny1792h5dLZ_3C-35">
+        <mxCell id="uLhDo0Ny1792h5dLZ_3C-38" value="全家无房&lt;br&gt;租房的" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontStyle=1;labelBackgroundColor=none;" vertex="1" connectable="0" parent="uLhDo0Ny1792h5dLZ_3C-35">
           <mxGeometry x="0.5444" y="1" relative="1" as="geometry">
             <mxPoint x="-1" as="offset" />
           </mxGeometry>
@@ -140,6 +140,15 @@
         </mxCell>
         <mxCell id="uLhDo0Ny1792h5dLZ_3C-27" value="桂林市桂岭小学2021年新生入学材料提交" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;glass=1;sketch=0;gradientColor=#97d077;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="-135" y="140" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uLhDo0Ny1792h5dLZ_3C-41" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;glass=1;labelBackgroundColor=none;sketch=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="270" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="uLhDo0Ny1792h5dLZ_3C-42" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;glass=1;labelBackgroundColor=none;sketch=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="270" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="uLhDo0Ny1792h5dLZ_3C-43" value="四城区是指：叠彩区、秀峰区、&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 七星区、象山区" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=14;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-300" y="190" width="210" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
