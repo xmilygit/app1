@@ -1,31 +1,31 @@
-<mxfile host="app.diagrams.net" modified="2021-06-09T07:34:44.920Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36 Edg/91.0.864.41" etag="50V5xvrOllys4FtKp4Im" version="14.7.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-10T12:49:13.722Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36 Edg/91.0.864.41" etag="p3lKMC3MClKSMZHQ_snr" version="14.7.6" type="github">
   <diagram id="xbSUnDKYCWi-sVSFAzKx" name="第 1 页">
-    <mxGraphModel dx="2012" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1865" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="uLhDo0Ny1792h5dLZ_3C-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontStyle=1;fontSize=14;" edge="1" parent="1" source="uLhDo0Ny1792h5dLZ_3C-1" target="uLhDo0Ny1792h5dLZ_3C-2">
+        <mxCell id="uLhDo0Ny1792h5dLZ_3C-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontStyle=1;fontSize=14;" parent="1" source="uLhDo0Ny1792h5dLZ_3C-1" target="uLhDo0Ny1792h5dLZ_3C-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uLhDo0Ny1792h5dLZ_3C-4" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1;fontSize=14;labelBackgroundColor=none;" vertex="1" connectable="0" parent="uLhDo0Ny1792h5dLZ_3C-3">
+        <mxCell id="uLhDo0Ny1792h5dLZ_3C-4" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1;fontSize=14;labelBackgroundColor=none;" parent="uLhDo0Ny1792h5dLZ_3C-3" vertex="1" connectable="0">
           <mxGeometry x="-0.1529" y="2" relative="1" as="geometry">
             <mxPoint x="-18" y="2" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uLhDo0Ny1792h5dLZ_3C-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontStyle=1;fontSize=14;" edge="1" parent="1" source="uLhDo0Ny1792h5dLZ_3C-1" target="uLhDo0Ny1792h5dLZ_3C-5">
+        <mxCell id="uLhDo0Ny1792h5dLZ_3C-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontStyle=1;fontSize=14;" parent="1" source="uLhDo0Ny1792h5dLZ_3C-1" target="uLhDo0Ny1792h5dLZ_3C-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-90" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uLhDo0Ny1792h5dLZ_3C-7" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1;fontSize=14;labelBackgroundColor=none;" vertex="1" connectable="0" parent="uLhDo0Ny1792h5dLZ_3C-6">
+        <mxCell id="uLhDo0Ny1792h5dLZ_3C-7" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1;fontSize=14;labelBackgroundColor=none;" parent="uLhDo0Ny1792h5dLZ_3C-6" vertex="1" connectable="0">
           <mxGeometry x="-0.25" y="5" relative="1" as="geometry">
             <mxPoint x="13" y="-5" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uLhDo0Ny1792h5dLZ_3C-1" value="学生是否四城区户籍" style="rhombus;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;shadow=1;fontStyle=1;fontSize=14;html=1;spacingTop=15;spacingBottom=15;spacingLeft=15;spacingRight=15;" vertex="1" parent="1">
+        <mxCell id="uLhDo0Ny1792h5dLZ_3C-1" value="学生是否四城区户籍" style="rhombus;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;shadow=1;fontStyle=1;fontSize=14;html=1;spacingTop=15;spacingBottom=15;spacingLeft=15;spacingRight=15;" parent="1" vertex="1">
           <mxGeometry x="-10" y="190" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="uLhDo0Ny1792h5dLZ_3C-28" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="uLhDo0Ny1792h5dLZ_3C-2" target="uLhDo0Ny1792h5dLZ_3C-23">
+        <mxCell id="uLhDo0Ny1792h5dLZ_3C-28" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="uLhDo0Ny1792h5dLZ_3C-2" target="uLhDo0Ny1792h5dLZ_3C-23" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="130" y="270" as="sourcePoint" />
             <mxPoint x="112" y="430" as="targetPoint" />
@@ -35,27 +35,27 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="uLhDo0Ny1792h5dLZ_3C-32" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontStyle=1;labelBackgroundColor=none;" vertex="1" connectable="0" parent="uLhDo0Ny1792h5dLZ_3C-28">
+        <mxCell id="uLhDo0Ny1792h5dLZ_3C-32" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontStyle=1;labelBackgroundColor=none;" parent="uLhDo0Ny1792h5dLZ_3C-28" vertex="1" connectable="0">
           <mxGeometry x="-0.1799" y="-1" relative="1" as="geometry">
             <mxPoint y="-8" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uLhDo0Ny1792h5dLZ_3C-30" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=14;" edge="1" parent="1" source="uLhDo0Ny1792h5dLZ_3C-2" target="uLhDo0Ny1792h5dLZ_3C-22">
+        <mxCell id="uLhDo0Ny1792h5dLZ_3C-30" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=14;" parent="1" source="uLhDo0Ny1792h5dLZ_3C-2" target="uLhDo0Ny1792h5dLZ_3C-22" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="269" y="270" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="uLhDo0Ny1792h5dLZ_3C-31" value="监护人&lt;br&gt;户籍落户本学区&lt;br&gt;且产权房在本学区" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontStyle=1;labelBackgroundColor=none;" vertex="1" connectable="0" parent="uLhDo0Ny1792h5dLZ_3C-30">
+        <mxCell id="uLhDo0Ny1792h5dLZ_3C-31" value="监护人&lt;br&gt;户籍落户本学区&lt;br&gt;且产权房在本学区" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontStyle=1;labelBackgroundColor=none;" parent="uLhDo0Ny1792h5dLZ_3C-30" vertex="1" connectable="0">
           <mxGeometry x="-0.1355" y="-1" relative="1" as="geometry">
             <mxPoint x="2" y="12" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uLhDo0Ny1792h5dLZ_3C-2" value="监护人是否四城区户籍" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;shadow=1;fontStyle=1;fontSize=14;spacingTop=15;spacingLeft=15;spacingBottom=15;spacingRight=15;" vertex="1" parent="1">
+        <mxCell id="uLhDo0Ny1792h5dLZ_3C-2" value="监护人是否四城区户籍" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;shadow=1;fontStyle=1;fontSize=14;spacingTop=15;spacingLeft=15;spacingBottom=15;spacingRight=15;" parent="1" vertex="1">
           <mxGeometry x="150" y="240" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="uLhDo0Ny1792h5dLZ_3C-25" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=1;fontSize=14;" edge="1" parent="1" source="uLhDo0Ny1792h5dLZ_3C-5" target="uLhDo0Ny1792h5dLZ_3C-23">
+        <mxCell id="uLhDo0Ny1792h5dLZ_3C-25" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=1;fontSize=14;" parent="1" source="uLhDo0Ny1792h5dLZ_3C-5" target="uLhDo0Ny1792h5dLZ_3C-23" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="20" y="270" />
@@ -63,51 +63,51 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="uLhDo0Ny1792h5dLZ_3C-26" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1;fontSize=14;labelBackgroundColor=none;" vertex="1" connectable="0" parent="uLhDo0Ny1792h5dLZ_3C-25">
+        <mxCell id="uLhDo0Ny1792h5dLZ_3C-26" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1;fontSize=14;labelBackgroundColor=none;" parent="uLhDo0Ny1792h5dLZ_3C-25" vertex="1" connectable="0">
           <mxGeometry x="0.0186" y="-2" relative="1" as="geometry">
             <mxPoint y="-27" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uLhDo0Ny1792h5dLZ_3C-39" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="uLhDo0Ny1792h5dLZ_3C-5" target="uLhDo0Ny1792h5dLZ_3C-8">
+        <mxCell id="uLhDo0Ny1792h5dLZ_3C-39" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" parent="1" source="uLhDo0Ny1792h5dLZ_3C-5" target="uLhDo0Ny1792h5dLZ_3C-8" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-215" y="270" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="uLhDo0Ny1792h5dLZ_3C-40" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontStyle=1;labelBackgroundColor=none;" vertex="1" connectable="0" parent="uLhDo0Ny1792h5dLZ_3C-39">
+        <mxCell id="uLhDo0Ny1792h5dLZ_3C-40" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontStyle=1;labelBackgroundColor=none;" parent="uLhDo0Ny1792h5dLZ_3C-39" vertex="1" connectable="0">
           <mxGeometry x="0.0533" y="1" relative="1" as="geometry">
             <mxPoint x="9" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uLhDo0Ny1792h5dLZ_3C-5" value="监护人是否四城区户籍" style="rhombus;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;gradientColor=#7ea6e0;shadow=1;fontStyle=1;fontSize=14;spacingTop=15;spacingLeft=15;spacingBottom=15;spacingRight=15;" vertex="1" parent="1">
+        <mxCell id="uLhDo0Ny1792h5dLZ_3C-5" value="监护人是否四城区户籍" style="rhombus;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;gradientColor=#7ea6e0;shadow=1;fontStyle=1;fontSize=14;spacingTop=15;spacingLeft=15;spacingBottom=15;spacingRight=15;" parent="1" vertex="1">
           <mxGeometry x="-130" y="240" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="uLhDo0Ny1792h5dLZ_3C-33" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="uLhDo0Ny1792h5dLZ_3C-8" target="uLhDo0Ny1792h5dLZ_3C-17">
+        <mxCell id="uLhDo0Ny1792h5dLZ_3C-33" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" parent="1" source="uLhDo0Ny1792h5dLZ_3C-8" target="uLhDo0Ny1792h5dLZ_3C-17" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-300" y="320" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="uLhDo0Ny1792h5dLZ_3C-36" value="有房" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontStyle=1;labelBackgroundColor=none;" vertex="1" connectable="0" parent="uLhDo0Ny1792h5dLZ_3C-33">
+        <mxCell id="uLhDo0Ny1792h5dLZ_3C-36" value="有房" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontStyle=1;labelBackgroundColor=none;" parent="uLhDo0Ny1792h5dLZ_3C-33" vertex="1" connectable="0">
           <mxGeometry x="0.1074" relative="1" as="geometry">
             <mxPoint y="13" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uLhDo0Ny1792h5dLZ_3C-34" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="uLhDo0Ny1792h5dLZ_3C-8" target="uLhDo0Ny1792h5dLZ_3C-11">
+        <mxCell id="uLhDo0Ny1792h5dLZ_3C-34" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" parent="1" source="uLhDo0Ny1792h5dLZ_3C-8" target="uLhDo0Ny1792h5dLZ_3C-11" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-140" y="320" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="uLhDo0Ny1792h5dLZ_3C-37" value="无房&lt;br&gt;在祖父母（外祖父母）&lt;br&gt;房产实际居住的" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontStyle=1;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" connectable="0" parent="uLhDo0Ny1792h5dLZ_3C-34">
+        <mxCell id="uLhDo0Ny1792h5dLZ_3C-37" value="无房&lt;br&gt;在祖父母（外祖父母）&lt;br&gt;房产实际居住的" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontStyle=1;labelBackgroundColor=none;labelBorderColor=none;" parent="uLhDo0Ny1792h5dLZ_3C-34" vertex="1" connectable="0">
           <mxGeometry x="-0.0458" relative="1" as="geometry">
             <mxPoint y="13" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uLhDo0Ny1792h5dLZ_3C-35" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" target="uLhDo0Ny1792h5dLZ_3C-13">
+        <mxCell id="uLhDo0Ny1792h5dLZ_3C-35" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" parent="1" target="uLhDo0Ny1792h5dLZ_3C-13" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-149.99999999999977" y="320" as="sourcePoint" />
             <Array as="points">
@@ -115,39 +115,33 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="uLhDo0Ny1792h5dLZ_3C-38" value="全家无房&lt;br&gt;租房的" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontStyle=1;labelBackgroundColor=none;" vertex="1" connectable="0" parent="uLhDo0Ny1792h5dLZ_3C-35">
+        <mxCell id="uLhDo0Ny1792h5dLZ_3C-38" value="全家无房&lt;br&gt;租房的" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontStyle=1;labelBackgroundColor=none;" parent="uLhDo0Ny1792h5dLZ_3C-35" vertex="1" connectable="0">
           <mxGeometry x="0.5444" y="1" relative="1" as="geometry">
             <mxPoint x="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uLhDo0Ny1792h5dLZ_3C-8" value="监护人是否有产权房" style="rhombus;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;gradientColor=#7ea6e0;rounded=0;shadow=1;sketch=0;fontStyle=1;fontSize=14;spacingTop=15;spacingLeft=15;spacingBottom=15;spacingRight=15;" vertex="1" parent="1">
+        <mxCell id="uLhDo0Ny1792h5dLZ_3C-8" value="监护人是否有产权房" style="rhombus;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;gradientColor=#7ea6e0;rounded=0;shadow=1;sketch=0;fontStyle=1;fontSize=14;spacingTop=15;spacingLeft=15;spacingBottom=15;spacingRight=15;" parent="1" vertex="1">
           <mxGeometry x="-270" y="290" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="uLhDo0Ny1792h5dLZ_3C-11" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;所需要材料见右表编号②&lt;/span&gt;" style="whiteSpace=wrap;html=1;strokeColor=#d79b00;fillColor=#ffcd28;gradientColor=#ffa500;rounded=1;shadow=1;glass=1;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="uLhDo0Ny1792h5dLZ_3C-11" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;所需要材料见右表编号②&lt;/span&gt;" style="whiteSpace=wrap;html=1;strokeColor=#d79b00;fillColor=#ffcd28;gradientColor=#ffa500;rounded=1;shadow=1;glass=1;fontStyle=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="-170" y="420" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="uLhDo0Ny1792h5dLZ_3C-13" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;所需要材料见右表编号③&lt;/span&gt;" style="whiteSpace=wrap;html=1;strokeColor=#d79b00;fillColor=#ffcd28;gradientColor=#ffa500;rounded=1;glass=1;shadow=1;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="uLhDo0Ny1792h5dLZ_3C-13" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;所需要材料见右表编号③&lt;/span&gt;" style="whiteSpace=wrap;html=1;strokeColor=#d79b00;fillColor=#ffcd28;gradientColor=#ffa500;rounded=1;glass=1;shadow=1;fontStyle=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="-60" y="420" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="uLhDo0Ny1792h5dLZ_3C-17" value="所需要材料见右表编号①" style="whiteSpace=wrap;html=1;strokeColor=#d79b00;fillColor=#ffcd28;gradientColor=#ffa500;rounded=1;glass=1;shadow=1;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="uLhDo0Ny1792h5dLZ_3C-17" value="所需要材料见右表编号①" style="whiteSpace=wrap;html=1;strokeColor=#d79b00;fillColor=#ffcd28;gradientColor=#ffa500;rounded=1;glass=1;shadow=1;fontStyle=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="-330" y="420" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="uLhDo0Ny1792h5dLZ_3C-22" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;所需要材料见右表编号①&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=1;sketch=0;gradientColor=#ffa500;fillColor=#ffcd28;strokeColor=#d79b00;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="uLhDo0Ny1792h5dLZ_3C-22" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;所需要材料见右表编号①&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=1;sketch=0;gradientColor=#ffa500;fillColor=#ffcd28;strokeColor=#d79b00;fontStyle=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="240" y="420" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="uLhDo0Ny1792h5dLZ_3C-23" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;所需要材料见右表编号④&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=1;sketch=0;gradientColor=#97d077;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="uLhDo0Ny1792h5dLZ_3C-23" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;所需要材料见右表编号④&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=1;sketch=0;gradientColor=#97d077;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="50" y="420" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="uLhDo0Ny1792h5dLZ_3C-27" value="桂林市桂岭小学2021年新生入学材料提交" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;glass=1;sketch=0;gradientColor=#97d077;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="uLhDo0Ny1792h5dLZ_3C-27" value="桂林市桂岭小学2021年新生入学材料&lt;br&gt;&lt;font color=&quot;#ff0000&quot;&gt;根据实际情况，按以下逻辑判断所需提交的材料类型&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;glass=1;sketch=0;gradientColor=#97d077;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="-135" y="140" width="360" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="uLhDo0Ny1792h5dLZ_3C-41" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;glass=1;labelBackgroundColor=none;sketch=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="-20" y="270" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="uLhDo0Ny1792h5dLZ_3C-42" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;glass=1;labelBackgroundColor=none;sketch=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="-20" y="270" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="uLhDo0Ny1792h5dLZ_3C-43" value="四城区是指：叠彩区、秀峰区、&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 七星区、象山区" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=14;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="uLhDo0Ny1792h5dLZ_3C-43" value="四城区是指：叠彩区、秀峰区、&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 七星区、象山区" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=14;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-300" y="190" width="210" height="40" as="geometry" />
         </mxCell>
       </root>
